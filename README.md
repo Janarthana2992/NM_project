@@ -33,7 +33,7 @@ $  source venv/scripts/activate
 
 **3. Clone this project**
 ```
-$  git clone 
+$  git clone "https://github.com/Janarthana2992/NM_project.git"
 ```
 
 Then, Enter the project
