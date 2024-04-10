@@ -1,4 +1,13 @@
-# NM_project
+# Naan_Mudhalvan_Janarthan_5013_GCE
+Naan Mudhalvan project
+
+Name : JANARTHAN P 
+Reg no. :731121205013
+college : Government College of Engineering,Erode.
+
+To login in project:
+username : Admin
+password : Admin123
 Note Sharing Application for Academician
 # Student Management System Created Using Django
 
